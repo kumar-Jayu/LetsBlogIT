@@ -1,0 +1,241 @@
+html {
+  margin-left: 45px;
+  margin-right: 20px;
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+#logo a img {
+  height: 90px;
+  width: 200px;
+  margin-bottom: -10px;
+}
+#logo-head a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: 700;
+}
+#logo-head p {
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+#logo-head a:hover {
+  color: orangered;
+}
+#love img {
+  width: 100%;
+}
+
+/* main starts */
+main {
+  width: 70%;
+
+  display: inline-block;
+  line-height: 25px;
+  word-spacing: 3px;
+  font-size: 1.3rem;
+}
+
+#kannu {
+  vertical-align: top;
+  display: inline-block;
+}
+#kannu img {
+  height: 70px;
+  width: 70px;
+  border-radius: 40px;
+}
+#kannu p {
+  color: rgba(8, 133, 8, 0.936);
+  font-weight: 700;
+}
+
+#blog-heading {
+  font-size: 2.7rem;
+}
+
+#signal img {
+  width: 18px;
+  margin-bottom: -2px;
+}
+#five-tips img {
+  margin-top: 5px;
+  width: 100%;
+}
+
+#signal span {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+#main-body p {
+  text-align: justify;
+}
+
+#main-body {
+  width: 70%;
+  display: inline-block;
+  margin-left: 80px;
+}
+#ul-list a {
+  text-decoration: none;
+}
+
+.list-item {
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* aside section styles */
+aside {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10%;
+  margin-left: 20px;
+}
+#aside1 {
+  border-top: 5px solid black;
+  width: 130%;
+}
+.heading {
+  font-weight: 600;
+  line-height: 30px;
+  word-spacing: 3px;
+  font-size: 1.2rem;
+}
+#aside1 label {
+  font-size: 1.2rem;
+}
+#aside1 input {
+  width: 90%;
+  height: 40px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  background-color: #f7f7f7;
+  border: 1px solid #d1d1d1;
+  border-radius: 3px;
+}
+#aside1 button:hover {
+  background-color: orangered;
+  color: black;
+}
+#aside1 button {
+  height: 40px;
+  margin-top: 10px;
+  font-family: sans-serif;
+  width: 150px;
+  background-color: black;
+  letter-spacing: 0.1rem;
+  padding: 5px 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  color: white;
+}
+
+#aside2 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  width: 130%;
+}
+#aside2 input {
+  height: 45px;
+  margin-bottom: 60px;
+  border-radius: 3px 0px 0px 3px;
+  background-color: #f7f7f7;
+  border: 1px solid #d1d1d1;
+  margin-top: 35px;
+  width: 75%;
+  font-weight: 400;
+  font-size: 1.1rem;
+  padding: 0px 0px 0px 20px;
+}
+#aside2 img {
+  background-color: black;
+  height: 30px;
+  border-radius: 0px 5px 5px 0px;
+
+  padding: 9px;
+  margin-bottom: -19px;
+  color: white;
+  margin-left: -5px;
+}
+
+#aside3 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  width: 130%;
+}
+#aside ul {
+  list-style-type: disc;
+}
+.aside-links li a {
+  color: orangered;
+  word-spacing: 3px;
+  text-decoration: none;
+  font-size: 1.1rem;
+  line-height: 26px;
+}
+.aside-links li a:hover {
+  color: black;
+}
+
+#aside4 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  width: 130%;
+}
+
+#aside5 {
+  border-top: 5px solid black;
+  margin-top: 20px;
+  width: 130%;
+}
+
+#social {
+  display: block;
+  margin-left: -53px;
+  margin-top: -185%;
+  position: fixed;
+}
+
+#social a img {
+  padding: 7px;
+  height: 25px;
+  width: 25px;
+  margin: 0px;
+  display: block;
+}
+#fb img {
+  background-color: rgb(5, 20, 186);
+}
+#fb img:hover {
+  background-color: rgb(41, 56, 230);
+}
+
+#twitter img {
+  background-color: rgb(13, 161, 180);
+}
+#twitter img:hover {
+  background-color: rgb(32, 202, 224);
+}
+
+#whatsapp img {
+  background-color: rgb(14, 105, 26);
+}
+#whatsapp img:hover {
+  background-color: rgb(10, 167, 31);
+}
+
+#google img {
+  background-color: rgb(167, 52, 7);
+}
+#google img:hover {
+  background-color: rgb(209, 68, 12);
+}
+
+#in img {
+  background-color: rgb(13, 13, 132);
+}
+#in img:hover {
+  background-color: rgb(23, 23, 216);
+}
